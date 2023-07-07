@@ -65,7 +65,7 @@ You can use the website to generate badges: https://shields.io/
 
 </p>
 
-  <img width="50%" align="left" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=Yudas1337&show_icons=true&hide_border=true" /><img width="43%" align="right" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudas1337&layout=compact&hide_border=true" />
+  <img width="50%" align="left" alt="Welson's github stats" src="https://github-readme-stats.vercel.app/api?username=NosweL&show_icons=true&hide_border=true" /><img width="43%" align="right" alt="Welson's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NosweL&layout=compact&hide_border=true" />
 <br><br><br><br><br><br>
 <br><br><br>
 
@@ -88,7 +88,7 @@ I created these images, feel free to use them.
 
 
 
-<!-- This readme was created by Yudas Malabi - https://github.com/Yudas1337 -->
+
 
 
 <!--
